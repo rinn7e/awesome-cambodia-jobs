@@ -5,7 +5,6 @@
   "sections": [
     {
       "title": "Job Portals",
-      "description": "Primary job boards and local vacancy aggregators operating in Cambodia.",
       "items": [
         {
           "title": "BongThom",
@@ -35,7 +34,6 @@
     },
     {
       "title": "Telegram Channels and Groups",
-      "description": "Direct real-time job posting channels and HR networks on Telegram in Cambodia.",
       "items": [
         {
           "title": "IT Jobs Cambodia (Telegram)",
@@ -65,7 +63,6 @@
     },
     {
       "title": "Facebook Groups and Communities",
-      "description": "Popular Facebook hiring groups where recruiters post direct HR contacts daily.",
       "items": [
         {
           "title": "Job Announcement in Cambodia",
@@ -89,7 +86,6 @@
     },
     {
       "title": "Executive Search and Recruitment Agencies",
-      "description": "Professional recruitment firms, headhunters, and payroll agencies.",
       "items": [
         {
           "title": "HRINC Cambodia",
@@ -101,7 +97,6 @@
     },
     {
       "title": "Global Remote and Freelance Platforms",
-      "description": "Remote work and global freelance platforms offering foreign exchange earnings and global salary arbitrage.",
       "items": [
         {
           "title": "Remotive",
@@ -143,7 +138,6 @@
     },
     {
       "title": "Government and Civil Service",
-      "description": "Official public sector employment, civil service portals, and labor protection resources.",
       "items": [
         {
           "title": "Ministry of Civil Service",
@@ -167,7 +161,6 @@
     },
     {
       "title": "NGO and International Development",
-      "description": "Development sector vacancies offering stable long-term contracts and comprehensive health benefits.",
       "items": [
         {
           "title": "Cooperation Committee for Cambodia (CCC)",
@@ -191,7 +184,6 @@
     },
     {
       "title": "Tech Hubs and Communities",
-      "description": "High-growth tech ecosystems, developer communities, and digital innovation centers.",
       "items": [
         {
           "title": "BarCamp Cambodia",
@@ -221,7 +213,6 @@
     },
     {
       "title": "Scholarships and Youth Opportunities",
-      "description": "Educational grants, internship boards, and youth career acceleration.",
       "items": [
         {
           "title": "Scholarship for Khmer",
@@ -233,7 +224,6 @@
     },
     {
       "title": "Vocational Reskilling and Training",
-      "description": "Free and subsidized technical skill development programs to future-proof employment.",
       "items": [
         {
           "title": "Technical and Vocational Education and Training (TVET)",
@@ -245,7 +235,6 @@
     },
     {
       "title": "Professional Networks",
-      "description": "Global networks filtered for job listings in Cambodia.",
       "items": [
         {
           "title": "LinkedIn Cambodia Jobs",
