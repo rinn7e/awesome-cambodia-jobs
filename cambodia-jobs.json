@@ -1,0 +1,259 @@
+{
+  "slug": "awesome-cambodia-jobs",
+  "title": "Cambodia Jobs",
+  "description": "The ultimate curated list of job portals, Telegram recruitment channels, Facebook job communities, remote work platforms, executive agencies, government civil service, and tech hubs in Cambodia.",
+  "sections": [
+    {
+      "title": "Job Portals",
+      "description": "Primary job boards and local vacancy aggregators operating in Cambodia.",
+      "items": [
+        {
+          "title": "BongThom",
+          "url": "https://www.bongthom.com",
+          "description": "Leading job portal in Cambodia specializing in corporate, NGO, and technical vacancies",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "CamHR",
+          "url": "https://www.camhr.com",
+          "description": "Popular job search engine and employment platform for commercial and corporate positions",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Cam-Jobs",
+          "url": "https://www.cam-jobs.com",
+          "description": "Khmer language job portal and CV submission database for local employment",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "JobNet Cambodia",
+          "url": "https://www.jobnet.com.kh",
+          "description": "Job vacancy marketplace covering various professional industries across Cambodia",
+          "lastUpdated": "2026-07"
+        }
+      ]
+    },
+    {
+      "title": "Telegram Channels and Groups",
+      "description": "Direct real-time job posting channels and HR networks on Telegram in Cambodia.",
+      "items": [
+        {
+          "title": "IT Jobs Cambodia (Telegram)",
+          "url": "https://t.me/itjobscambodia",
+          "description": "Largest Telegram community for software engineering, IT support, and tech vacancies in Cambodia",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Cambodia HR & Jobs (Telegram)",
+          "url": "https://t.me/cambodiajobss",
+          "description": "Active daily job channel broadcasting corporate, sales, and administrative vacancies",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "DevCambodia Community (Telegram)",
+          "url": "https://t.me/devcambodia",
+          "description": "Developer chat group sharing technical job openings and peer code reviews",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Job Search Cambodia (Telegram)",
+          "url": "https://t.me/jobsearchcambodia",
+          "description": "Daily job broadcast channel covering Phnom Penh and provincial vacancies",
+          "lastUpdated": "2026-07"
+        }
+      ]
+    },
+    {
+      "title": "Facebook Groups and Communities",
+      "description": "Popular Facebook hiring groups where recruiters post direct HR contacts daily.",
+      "items": [
+        {
+          "title": "Job Announcement in Cambodia",
+          "url": "https://www.facebook.com/groups/jobincambodia",
+          "description": "Major Facebook group featuring hundreds of daily employer hiring posts across Cambodia",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "IT & Tech Jobs Phnom Penh",
+          "url": "https://www.facebook.com/groups/itjobscambodia",
+          "description": "Specialized Facebook community for technology, UI/UX design, and digital marketing positions",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "NGO Jobs Cambodia Group",
+          "url": "https://www.facebook.com/groups/ngojobscambodia",
+          "description": "Community group dedicated to non-profit, development, and community project hiring",
+          "lastUpdated": "2026-07"
+        }
+      ]
+    },
+    {
+      "title": "Executive Search and Recruitment Agencies",
+      "description": "Professional recruitment firms, headhunters, and payroll agencies.",
+      "items": [
+        {
+          "title": "HRINC Cambodia",
+          "url": "https://www.hrincjobs.com",
+          "description": "Premier executive search, HR advisory, and workforce management agency in Cambodia",
+          "lastUpdated": "2026-07"
+        }
+      ]
+    },
+    {
+      "title": "Global Remote and Freelance Platforms",
+      "description": "Remote work and global freelance platforms offering foreign exchange earnings and global salary arbitrage.",
+      "items": [
+        {
+          "title": "Remotive",
+          "url": "https://remotive.com",
+          "description": "Curated list of remote tech jobs for software engineers, designers, and marketers",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Remote OK",
+          "url": "https://remoteok.com",
+          "description": "Popular global job board filtering remote opportunities in software development and digital roles",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Toptal",
+          "url": "https://www.toptal.com",
+          "description": "Exclusive network for top freelance software developers, designers, and finance experts",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Upwork",
+          "url": "https://www.upwork.com",
+          "description": "Global freelancing marketplace for remote client contracts and independent professional services",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "We Work Remotely",
+          "url": "https://weworkremotely.com",
+          "description": "Premier platform for remote work opportunities across global technology companies",
+          "lastUpdated": "2025-05"
+        },
+        {
+          "title": "Wellfound",
+          "url": "https://wellfound.com",
+          "description": "Startup-focused career platform connecting tech talent with global remote startup roles",
+          "lastUpdated": "2026-07"
+        }
+      ]
+    },
+    {
+      "title": "Government and Civil Service",
+      "description": "Official public sector employment, civil service portals, and labor protection resources.",
+      "items": [
+        {
+          "title": "Ministry of Civil Service",
+          "url": "https://mcs.gov.kh",
+          "description": "Official state ministry managing public sector appointments and civil service examinations",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Ministry of Labour and Vocational Training",
+          "url": "https://www.mlvt.gov.kh",
+          "description": "Government ministry regulating employment contracts, labor rights, and workplace safety standards",
+          "lastUpdated": "2025-03"
+        },
+        {
+          "title": "National Employment Agency (NEA)",
+          "url": "https://www.nea.gov.kh",
+          "description": "Official Cambodian government portal providing public placement services and workforce guidance",
+          "lastUpdated": "2022-11"
+        }
+      ]
+    },
+    {
+      "title": "NGO and International Development",
+      "description": "Development sector vacancies offering stable long-term contracts and comprehensive health benefits.",
+      "items": [
+        {
+          "title": "Cooperation Committee for Cambodia (CCC)",
+          "url": "https://www.ccc-cambodia.org",
+          "description": "Peak membership organization publishing non-governmental development job opportunities",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "ReliefWeb Cambodia",
+          "url": "https://reliefweb.int/country/khm",
+          "description": "Specialized humanitarian and development sector job listings for international aid agencies",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "UN Jobs Cambodia",
+          "url": "https://cambodia.un.org",
+          "description": "Official United Nations portal listing agency vacancies across Cambodia",
+          "lastUpdated": "2026-06"
+        }
+      ]
+    },
+    {
+      "title": "Tech Hubs and Communities",
+      "description": "High-growth tech ecosystems, developer communities, and digital innovation centers.",
+      "items": [
+        {
+          "title": "BarCamp Cambodia",
+          "url": "https://www.barcampcambodia.org",
+          "description": "Tech conference and tech community network hosting career workshops and networking events",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Cambodia Academy of Digital Technology",
+          "url": "https://www.cadt.edu.kh",
+          "description": "National digital research institute connecting digital talent with industry partners and tech careers",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Impact Hub Phnom Penh",
+          "url": "https://phnompenh.impacthub.net",
+          "description": "Social entrepreneurship hub listing startup roles and innovation programs",
+          "lastUpdated": "2026-05"
+        },
+        {
+          "title": "Techo Startup Center",
+          "url": "https://techostartup.center",
+          "description": "Public tech incubator offering startup career paths and innovation programs",
+          "lastUpdated": "2026-07"
+        }
+      ]
+    },
+    {
+      "title": "Scholarships and Youth Opportunities",
+      "description": "Educational grants, internship boards, and youth career acceleration.",
+      "items": [
+        {
+          "title": "Scholarship for Khmer",
+          "url": "https://www.facebook.com/ScholarshipsForKhmer",
+          "description": "Leading Cambodian youth community for educational grants, university scholarships, and fellowship opportunities",
+          "lastUpdated": "2026-07"
+        }
+      ]
+    },
+    {
+      "title": "Vocational Reskilling and Training",
+      "description": "Free and subsidized technical skill development programs to future-proof employment.",
+      "items": [
+        {
+          "title": "Technical and Vocational Education and Training (TVET)",
+          "url": "https://tvet.gov.kh",
+          "description": "National TVET portal offering vocational training courses and skill upgrade certificates",
+          "lastUpdated": "2026-06"
+        }
+      ]
+    },
+    {
+      "title": "Professional Networks",
+      "description": "Global networks filtered for job listings in Cambodia.",
+      "items": [
+        {
+          "title": "LinkedIn Cambodia Jobs",
+          "url": "https://www.linkedin.com/jobs/jobs-in-cambodia",
+          "description": "Professional network job board filtering corporate and technical positions in Cambodia",
+          "lastUpdated": "2026-07"
+        }
+      ]
+    }
+  ]
+}
