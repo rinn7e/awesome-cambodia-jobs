@@ -1,6 +1,6 @@
 # Awesome Cambodia Jobs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The ultimate curated list of job portals, Telegram recruitment channels, Facebook job communities, remote work platforms, executive agencies, government civil service, and tech hubs in Cambodia.
+The ultimate curated list of job portals, Telegram recruitment channels, executive agencies, global remote platforms, government civil service, NGO aid vacancies, and tech hubs in Cambodia.
 
 
 - [Cambodia Jobs](#cambodia-jobs)
@@ -28,16 +28,18 @@ The ultimate curated list of job portals, Telegram recruitment channels, Faceboo
 
 #### Telegram Channels and Groups
 
-- [IT Jobs Cambodia (Telegram)](https://t.me/itjobscambodia) - Tech & IT vacancy channel. *(Jul 2026)*
-- [Cambodia HR & Jobs (Telegram)](https://t.me/cambodiajobss) - Daily corporate job postings. *(Jul 2026)*
-- [DevCambodia Community (Telegram)](https://t.me/devcambodia) - Developer community & tech jobs. *(Jul 2026)*
-- [Job Search Cambodia (Telegram)](https://t.me/jobsearchcambodia) - Daily Phnom Penh & provincial jobs. *(Jul 2026)*
+- [Cambodia Job Offer (Telegram)](https://t.me/cambodiajoboffer) - Daily commercial job announcements channel. *(Jul 2026)*
+- [Cambodia Job Posting (Telegram)](https://t.me/Jobupdating) - Recruitment & career updates channel. *(Jul 2026)*
+- [Cambodia Job Vacancies (Telegram)](https://t.me/Cambodiajobvacancy) - Public vacancy announcements channel. *(Jul 2026)*
+- [Hiring Cambodia Jobs (Telegram)](https://t.me/HiringCambodiaJobs) - Phnom Penh & provincial hiring channel. *(Jul 2026)*
+- [Job Search Cambodia (Telegram)](https://t.me/jobsearchcambodia) - Daily Phnom Penh & provincial jobs community. *(Jul 2026)*
+- [Jobs in Cambodia 168 (Telegram)](https://t.me/cambodiajobhiring168) - Employment postings channel. *(Jul 2026)*
+- [Lim Heng Group Job Recruitment (Telegram)](https://t.me/hrlimhenggroup) - Corporate group recruitment channel. *(Jul 2026)*
+- [Toyota Cambodia Jobs (Telegram)](https://t.me/toyotajobs) - Official Toyota Cambodia career channel. *(Jul 2026)*
 
 #### Facebook Groups and Communities
 
-- [Job Announcement in Cambodia](https://www.facebook.com/groups/jobincambodia) - Popular daily hiring group. *(Jul 2026)*
-- [IT & Tech Jobs Phnom Penh](https://www.facebook.com/groups/itjobscambodia) - Tech & design job community. *(Jul 2026)*
-- [NGO Jobs Cambodia Group](https://www.facebook.com/groups/ngojobscambodia) - Non-profit & development hiring. *(Jul 2026)*
+- [Job Opportunities in Cambodia (Facebook Group)](https://www.facebook.com/groups/127597097818777/) - Public hiring community group with 41,000+ members. *(Jul 2026)*
 
 #### Executive Search and Recruitment Agencies
 
@@ -54,7 +56,7 @@ The ultimate curated list of job portals, Telegram recruitment channels, Faceboo
 
 #### Government and Civil Service
 
-- [Ministry of Civil Service](https://mcs.gov.kh) - Public sector civil service portal. *(Jul 2026)*
+- [Ministry of Civil Service](https://www.mlvt.gov.kh) - Public sector civil service portal. *(Jul 2026)*
 - [Ministry of Labour and Vocational Training](https://www.mlvt.gov.kh) - Labor rights & workplace standards. *(Mar 2025)*
 - [National Employment Agency (NEA)](https://www.nea.gov.kh) - State employment placement service. *(Nov 2022)*
 

@@ -1,7 +1,7 @@
 {
   "slug": "awesome-cambodia-jobs",
   "title": "Cambodia Jobs",
-  "description": "The ultimate curated list of job portals, Telegram recruitment channels, Facebook job communities, remote work platforms, executive agencies, government civil service, and tech hubs in Cambodia.",
+  "description": "The ultimate curated list of job portals, Telegram recruitment channels, executive agencies, global remote platforms, government civil service, NGO aid vacancies, and tech hubs in Cambodia.",
   "sections": [
     {
       "title": "Job Portals",
@@ -36,27 +36,51 @@
       "title": "Telegram Channels and Groups",
       "items": [
         {
-          "title": "IT Jobs Cambodia (Telegram)",
-          "url": "https://t.me/itjobscambodia",
-          "description": "Tech & IT vacancy channel",
+          "title": "Cambodia Job Offer (Telegram)",
+          "url": "https://t.me/cambodiajoboffer",
+          "description": "Daily commercial job announcements channel",
           "lastUpdated": "2026-07"
         },
         {
-          "title": "Cambodia HR & Jobs (Telegram)",
-          "url": "https://t.me/cambodiajobss",
-          "description": "Daily corporate job postings",
+          "title": "Cambodia Job Posting (Telegram)",
+          "url": "https://t.me/Jobupdating",
+          "description": "Recruitment & career updates channel",
           "lastUpdated": "2026-07"
         },
         {
-          "title": "DevCambodia Community (Telegram)",
-          "url": "https://t.me/devcambodia",
-          "description": "Developer community & tech jobs",
+          "title": "Cambodia Job Vacancies (Telegram)",
+          "url": "https://t.me/Cambodiajobvacancy",
+          "description": "Public vacancy announcements channel",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Hiring Cambodia Jobs (Telegram)",
+          "url": "https://t.me/HiringCambodiaJobs",
+          "description": "Phnom Penh & provincial hiring channel",
           "lastUpdated": "2026-07"
         },
         {
           "title": "Job Search Cambodia (Telegram)",
           "url": "https://t.me/jobsearchcambodia",
-          "description": "Daily Phnom Penh & provincial jobs",
+          "description": "Daily Phnom Penh & provincial jobs community",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Jobs in Cambodia 168 (Telegram)",
+          "url": "https://t.me/cambodiajobhiring168",
+          "description": "Employment postings channel",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Lim Heng Group Job Recruitment (Telegram)",
+          "url": "https://t.me/hrlimhenggroup",
+          "description": "Corporate group recruitment channel",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Toyota Cambodia Jobs (Telegram)",
+          "url": "https://t.me/toyotajobs",
+          "description": "Official Toyota Cambodia career channel",
           "lastUpdated": "2026-07"
         }
       ]
@@ -65,21 +89,9 @@
       "title": "Facebook Groups and Communities",
       "items": [
         {
-          "title": "Job Announcement in Cambodia",
-          "url": "https://www.facebook.com/groups/jobincambodia",
-          "description": "Popular daily hiring group",
-          "lastUpdated": "2026-07"
-        },
-        {
-          "title": "IT & Tech Jobs Phnom Penh",
-          "url": "https://www.facebook.com/groups/itjobscambodia",
-          "description": "Tech & design job community",
-          "lastUpdated": "2026-07"
-        },
-        {
-          "title": "NGO Jobs Cambodia Group",
-          "url": "https://www.facebook.com/groups/ngojobscambodia",
-          "description": "Non-profit & development hiring",
+          "title": "Job Opportunities in Cambodia (Facebook Group)",
+          "url": "https://www.facebook.com/groups/127597097818777/",
+          "description": "Public hiring community group with 41,000+ members",
           "lastUpdated": "2026-07"
         }
       ]
@@ -141,7 +153,7 @@
       "items": [
         {
           "title": "Ministry of Civil Service",
-          "url": "https://mcs.gov.kh",
+          "url": "https://www.mlvt.gov.kh",
           "description": "Public sector civil service portal",
           "lastUpdated": "2026-07"
         },
