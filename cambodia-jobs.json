@@ -256,5 +256,20 @@
         }
       ]
     }
-  ]
+  ],
+  "aiDeclaration": {
+    "level": "assist",
+    "processes": {
+      "design": "hint",
+      "implementation": "assist",
+      "testing": "assist",
+      "documentation": "assist",
+      "review": "none"
+    },
+    "notes": [
+      "LLM used: Claude Opus 5.5 (Anthropic), via Claude Code.",
+      "Moremi Vannak ([@rinn7e](https://github.com/rinn7e)) is the code architect: the architecture, conventions and design decisions are human-led.",
+      "Every change is reviewed by the maintainer before it is committed."
+    ]
+  }
 }

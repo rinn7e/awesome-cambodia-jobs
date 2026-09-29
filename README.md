@@ -1,5 +1,7 @@
 # Awesome Cambodia Jobs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![AI-DECLARATION: assist](https://img.shields.io/badge/䷼%20AI--DECLARATION-assist-fef9c3?labelColor=fef9c3)](AI-DECLARATION.md)
+
 The ultimate curated list of job portals, Telegram recruitment channels, executive agencies, global remote platforms, government civil service, NGO aid vacancies, and tech hubs in Cambodia.
 
 
